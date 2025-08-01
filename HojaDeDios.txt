@@ -55,20 +55,26 @@ URL Ranks by DiscoPeligro.
 	"vacio"
 ],
 "Artista": [
-"Roxytooty",
-"Daniel.n.v",
-"Rubeko",
-"AndrewSant",
-"vacio",
-"vacio",
-"vacio"
+	"Roxytooty",
+	"Daniel.n.v",
+	"Rubeko",
+	"AndrewSant",
+	"vacio",
+	"vacio",
+	"vacio"
 ],
-  "StaffInvitado": ["ESPACIOVACIO"],
-  "StaffMenor": ["ESPACIOVACIO"],
+  "StaffInvitado": [
+	"ESPACIOVACIO"
+],
+  "StaffMenor": [
+	"ESPACIOVACIO"
+	],
 	"VIP": [
 	"ᴇᴛᴀᴅɪʟᴀᴠ",
-	"tgfgggg"]
+	"tgfgggg"
+	]
 }
+
 
 
 
