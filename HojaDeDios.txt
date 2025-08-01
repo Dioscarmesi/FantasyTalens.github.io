@@ -1,18 +1,18 @@
 URL Ranks by DiscoPeligro.
 {
 "Admin": [
-        "RensellaVT",
-        "Tadashi_24"
+        "RensellaVT"
 	],
-"StaffMayor": ["vacio"],
+"StaffMayor": [
+	"EspacioVacio",
+	"Vacio"],
 "StaffSecurity": [
-    "ҜatherineThiler",
-    "D4rkfox",
-    "vacio",
-     "Yísus",
-"Jeffsito7u7VR"
+	"D4rkfox",
+	"vacio",
+	"Yísus",
+	"Jeffsito7u7VR"
     ],
-  "Dancer": [
+"Dancer": [
 	"ikerreki231",
     	"нσѕнι",
     	"Ezer_",
@@ -27,9 +27,8 @@ URL Ranks by DiscoPeligro.
 	"Onlydevil",
 	"StephVr_",
 	"ღToxicKittenღ"
-	
 	],
-	"DJ": [
+"DJ": [
 	"RAFAOwO",
     	"Jamirdg",
     	"Gamer7777702026",
@@ -51,7 +50,6 @@ URL Ranks by DiscoPeligro.
 	], 
 "Barman": [
 	"Cartlos5137",
-    	"٠Lady Berry٠",
 	"vacio",
 	"vacio",
 	"vacio",
@@ -72,3 +70,4 @@ URL Ranks by DiscoPeligro.
 	"ᴇᴛᴀᴅɪʟᴀᴠ",
 	"tgfgggg"]
 }
+
