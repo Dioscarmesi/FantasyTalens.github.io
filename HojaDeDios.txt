@@ -45,6 +45,7 @@ URL Ranks by DiscoPeligro.
     	"RocketSaul",
 	"Gaaratan",
 	"XionyxS",
+	"Lᴀᴅʏ Rᴇᴅღ",
 	"MurakamiJin"
 	], 
 "Barman": [
@@ -74,6 +75,7 @@ URL Ranks by DiscoPeligro.
 	"tgfgggg"
 	]
 }
+
 
 
 
