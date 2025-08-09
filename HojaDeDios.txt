@@ -12,21 +12,20 @@ URL Ranks by DiscoPeligro.
 	"Jeffsito7u7VR"
     ],
 "Dancer": [
-	"ikerreki231",
+		"ikerreki231",
     	"нσѕнι",
     	"Ezer_",
-    	"vacio",
-   	"TheWolfKenji",
+    	"EspacioVacio",
+   		"TheWolfKenji",
     	"sammyvase",
     	"ღEquiღ",
     	"XairiPR",
-	"OsitoPauPau",
-	"RED_XONA",
-	"Мариша ¿?",
-	"Onlydevil",
-	"StephVr_",
-	"StephVr_",
-	"ღToxicKittenღ"
+		"OsitoPauPau",
+		"RED_XONA",
+		"Мариша ¿?",
+		"Onlydevil",
+		"StephVr_",
+		"ღToxicKittenღ"
 	],
 "DJ": [
 	"RAFAOwO",
@@ -76,3 +75,4 @@ URL Ranks by DiscoPeligro.
 	"tgfgggg"
 	]
 }
+
